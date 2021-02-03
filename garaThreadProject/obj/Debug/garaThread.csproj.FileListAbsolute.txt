@@ -1,0 +1,9 @@
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.exe.config
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.exe
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.pdb
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\garaThread.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\_02_Automobiline_Thread.Form1.resources
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\_02_Automobiline_Thread.Properties.Resources.resources
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\garaThread.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.exe
+C:\Users\filip\OneDrive\Documenti\garaThread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.pdb

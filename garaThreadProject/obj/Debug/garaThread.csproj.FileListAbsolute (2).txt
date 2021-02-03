@@ -1,0 +1,10 @@
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.exe.config
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.exe
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\bin\Debug\02_Automobiline_Thread.pdb
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.csprojAssemblyReference.cache
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\_02_Automobiline_Thread.Form1.resources
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\_02_Automobiline_Thread.Properties.Resources.resources
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.csproj.GenerateResource.cache
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.exe
+D:\Desktop\Scuola\videolesion\LVI ma con i thred\02_Automobiline_Thread\02_Automobiline_Thread\obj\Debug\02_Automobiline_Thread.pdb
